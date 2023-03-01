@@ -1,5 +1,5 @@
 # Bluetooth
-bluetooth.device.default_name=Xiaomi MI 11 Pro
+bluetooth.device.default_name=Mi 11 Pro/Ultra
 
 # USB
-vendor.usb.product_string=Xiaomi MI 11 Pro
+vendor.usb.product_string=Mi 11 Pro/Ultra
